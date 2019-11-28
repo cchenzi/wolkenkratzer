@@ -1,5 +1,6 @@
 # wolkenkratzer
-Wolkenkratzer puzzle in different programing languages.
+
+INE5416 (Programming paradigms) Assignments: wolkenkratzer puzzle.
 
 
     
